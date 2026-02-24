@@ -58,4 +58,3 @@ jobs:
           body: New Release for ${{ github.sha }}. Release notes on the documentation site
           draft: false
           prerelease: false
-          
